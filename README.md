@@ -2,7 +2,7 @@
 
 I am an aspiring software developer in my third year of Computer Science at the University of Waterloo. 
 
-I am passionate about software development (full-stack), firmware engineering and machine learning/AI. I have developed a solid foundation in computer science principles and I attain a strong desire to leverage my skills to solve complex problems and drive innovation. 
+I am passionate about software/mobile development (full-stack), firmware engineering and machine learning/AI. I have developed a solid foundation in computer science principles and I attain a strong desire to leverage my skills to solve complex problems and drive innovation. 
 My projects revolve around a variety of topics ranging from web-applications to machine learning and natural language processing. 
 I have gained experiences in android development, machine learning and full-stack development. 
 
